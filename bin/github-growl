@@ -32,7 +32,7 @@ var getUsername = function getUsername(callback) {
   });
 };
 
-var getPassword = function getPassword(callback) {
+var getPassword = function getPasswotad(callback) {
   program.password('Github Password: ', function(password) {
     process.stdin.destroy();
     return callback(password);
