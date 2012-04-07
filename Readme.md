@@ -30,6 +30,12 @@ npm install -g github-growl
 github-growl [options]
 ```
 
+## Events Supported
+
+**NOTE**: This is a work in progress, so we add more to this list:
+
+* IssueCommentEvent
+
 ## Help
 
 ```bash
