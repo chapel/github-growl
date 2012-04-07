@@ -27,7 +27,6 @@ npm install -g github-growl
 ## Example Usage
 
 ```bash
-cd ~/my-git-project
 github-growl [options]
 ```
 
